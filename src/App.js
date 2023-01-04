@@ -5,10 +5,11 @@ import GlobalStyles from "./components/styles/Global";
 
 const theme = {
   colors: {
-    header: "#ebfbff",
-    body: "#fff",
-    footer: "#003333",
+    header: '#ebfbff',
+    body: '#fff',
+    footer: '#003333',
   },
+  mobile: '768px'
 };
 
 function App() {
