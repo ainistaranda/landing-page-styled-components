@@ -17,10 +17,9 @@ export default function Header() {
             <h1>Build the Community Your Fans Will Love</h1>
 
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam
-              dicta blanditiis iste modi consequuntur sequi optio nostrum, aut
-              dolorum nisi culpa provident? Laborum iste natus delectus eveniet
-              sapiente dignissimos numquam!
+              Huddle re-imagines the way we build communities. You have a voice,
+              but so does your audience. Create connections with your users as
+              you engage in genuine discussion.
             </p>
             <Button bg="#ff0099" color="white">
               Get Started For Free
